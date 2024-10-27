@@ -7,6 +7,6 @@ public class JenkinsTest {
 
 	@Test
 	public void jenkinsTest() {
-		Reporter.log("Jenkins", true);
+		Reporter.log("Jenkins mhgjgf", true);
 	}
 }
